@@ -1,6 +1,6 @@
 # Classificateur d'animaux par deep learning
 
-Ce module d'université a pour but de découvrir l'IA par la pratique. J'ai choisi d'implémenter un classificateur d'animaux en m'appuyant sur le _dataset_ [Animals-10](https://www.kaggle.com/alessiocorrado99/animals10) disponible sur Kaggle.
+Ce module d'université a pour but de découvrir l'IA par la pratique, en recréant soit-même un réseau de neuronnes. J'ai choisi d'implémenter un classificateur d'animaux en m'appuyant sur le _dataset_ [Animals-10](https://www.kaggle.com/alessiocorrado99/animals10) disponible sur Kaggle.
 Il contient 10 classes d'animaux: papillon, chat, poulet, vache, chien, éléphant, cheval, mouton, araignée et écureuil.
 
 Le détail de l'implémentation et les résultats sont disponibles dans le fichier [animal_recognition.ipynb](animal_recognition.ipynb).
