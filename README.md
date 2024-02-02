@@ -28,3 +28,5 @@ Ce dépôt utilise [Git LFS](https://git-lfs.github.com/) pour stocker le modèl
 # Utilisation
 
 Par défaut, le notebook charge le modèle déjà entraîné (fichier `best.keras`). Si vous souhaitez entraîner le modèle vous-même, un dictionnaire d'options est disponible dans la première cellule du notebook.
+
+Pour décomprésser l'archive du _dataset_ dans le dossier `animal10`, remplacez la valeur de `"UNZIP"` par `True`. Par défaut, le notebook décompresse l'archive `animal-10.zip` du dossier courant.
