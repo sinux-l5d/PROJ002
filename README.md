@@ -5,7 +5,7 @@ Il contient 10 classes d'animaux: papillon, chat, poulet, vache, chien, élépha
 
 Le détail de l'implémentation et les résultats sont disponibles dans le fichier [animal_recognition.ipynb](animal_recognition.ipynb).
 
-Au final, j'ai obtenu une précision de 0.68 sur les données de tests.
+Au final, j'ai obtenu une précision de 65.8% sur les données de tests.
 
 Voici les graphiques de précision et de perte obtenus lors de l'entraînement:
 
